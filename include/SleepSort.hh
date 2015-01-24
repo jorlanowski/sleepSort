@@ -1,3 +1,4 @@
+#pragma once
 #include <chrono> // chrono::milliseconds
 #include <mutex> // mutex, lock_guard
 #include <thread> // thread
